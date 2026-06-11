@@ -1,0 +1,20 @@
+p{color:darkseagreen}
+
+h1{color:coral;}
+
+
+h3{color:darkgoldenrod;}
+
+
+img{width:400px;}
+
+body{
+  background:antiquewhite;}
+
+a {
+  border-style:inset;
+  border-color: #640d0d;
+  border-radius: 10px;
+  padding: 5px;
+  text-decoration:none
+}
